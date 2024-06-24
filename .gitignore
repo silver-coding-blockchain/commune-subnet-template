@@ -5,6 +5,8 @@
 /volumes
 /result
 
+/venv
+
 /env/**/*.env
 
 node_modules
